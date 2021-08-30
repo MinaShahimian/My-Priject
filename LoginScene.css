@@ -1,0 +1,28 @@
+.root{
+	-fx-background-color:#dcf7f2;
+}
+.button{
+	-fx-pref-width:150.0px;
+	-fx-font-weight:bold;
+	-fx-font-size:10.0pt;
+	-fx-text-fill:black;
+	-fx-background-radius:10px;
+	-fx-border-radius:10px;
+	 -fx-font-family: 'Times new Roman';
+}
+.newstyle-button{
+	-fx-background-color:#c8f7e5;
+	-fx-border-color:black;
+	
+}
+.newstyle-button:hover{
+	-fx-background-color:#16ab8f;
+	-fx-border-color:black;
+}
+
+.label{
+	-fx-font-size:  15pt;
+  -fx-text-fill:  #242b2b;
+  -fx-font-family: 'Times new Roman';
+  -fx-font-weight: bold;
+}

@@ -1,0 +1,19 @@
+.root{
+	-fx-background-color:#dcf7f2;	
+}
+
+.newstyle-button{
+	-fx-background-color:#c8f7e5;
+	-fx-border-color:black;
+	 -fx-font-family: 'Times new Roman';
+}
+.newstyle-button:hover{
+	-fx-background-color:#16ab8f;
+	-fx-border-color:black;
+}
+.label{
+	-fx-font-size:  15pt;
+  -fx-text-fill:  #242b2b;
+  -fx-font-family: 'Times new Roman';
+  -fx-font-weight: bold;
+}
